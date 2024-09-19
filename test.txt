@@ -1,0 +1,9 @@
+object-detection-models-hub
+
+Description:
+"A collection of diverse object detection models, including EfficientDet,
+ Faster R-CNN, RetinaNet, SSDlite MobileNet V2, YOLOv5, and more.
+ This repository provides pre-trained models, training scripts, 
+and evaluation metrics for easy integration into 
+various object detection projects."
+
