@@ -29,7 +29,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
   - Ideal for edge devices and mobile applications.
   
 **Link to Model and Repo:**
-- [EfficientDet Official GitHub](https://github.com/google/automl/tree/master/efficientdet)
+- [EfficientDet Official GitHub](https://github.com/Nayan-Bebale/object-detection-models-hub/blob/main/EfficientDet_Model.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
   - Suitable for high-accuracy applications in image analysis, such as autonomous driving or medical imaging.
   
 **Link to Model and Repo:**
-- [Faster R-CNN Official GitHub](https://github.com/pytorch/vision/tree/main/references/detection)
+- [Faster R-CNN Official GitHub](https://github.com/Nayan-Bebale/object-detection-models-hub/blob/main/R_CNN_by_Detectron2.ipynb)
 
 ---
 
@@ -61,7 +61,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
   - Performs well in environments where many objects are easy to detect, but a few are hard.
   
 **Link to Model and Repo:**
-- [RetinaNet Official GitHub](https://github.com/fizyr/keras-retinanet)
+- [RetinaNet Official GitHub](https://github.com/Nayan-Bebale/object-detection-models-hub/blob/main/retinanet.ipynb)
 
 ---
 
@@ -77,7 +77,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
   - Efficient for applications where model size and inference speed are crucial, such as in robotics or augmented reality.
 
 **Link to Model and Repo:**
-- [SSDLite MobileNet V2 Official GitHub](https://github.com/tensorflow/models/tree/master/research/object_detection)
+- [SSDLite MobileNet V2 Official GitHub](https://github.com/Nayan-Bebale/object-detection-models-hub/blob/main/SSD_Mobilenet.ipynb)
 
 ---
 
@@ -93,7 +93,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
   - **Versatility:** Performs well on a wide range of object detection tasks and supports multiple resolutions.
 
 **Link to Model and Repo:**
-- [YOLOv5 Official GitHub](https://github.com/ultralytics/yolov5)
+- [YOLOv5 Official GitHub](https://github.com/Nayan-Bebale/object-detection-models-hub/blob/main/YoloV5.ipynb)
 
 ---
 
