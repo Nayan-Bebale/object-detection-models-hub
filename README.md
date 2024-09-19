@@ -11,6 +11,7 @@ Welcome to the **Object Detection Models Hub**, a repository containing a wide r
 - [RetinaNet](#retinanet)
 - [SSDLite MobileNet V2](#ssdlite-mobilenet-v2)
 - [YOLOv5](#yolov5)
+- [OpenCV Object Detection](#opencv-object-detection)
 - [Model Comparison](#model-comparison)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
@@ -97,6 +98,24 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
 
 ---
 
+
+## OpenCV Object Detection
+
+### Overview:
+This model leverages **OpenCV’s DNN module** for object detection. OpenCV's Deep Neural Network module enables loading and running pre-trained object detection models, such as **SSD** and **MobileNet**, efficiently in real-time applications. It’s highly optimized for real-world tasks like video surveillance, object tracking, and mobile-based applications.
+
+- **Best for:** Real-time object detection with a focus on speed and computational efficiency, especially on lower-end hardware.
+- **Why it's the best:**
+  - OpenCV is widely used in computer vision tasks and is easy to integrate with video streams or camera inputs.
+  - Supports a variety of pre-trained models, allowing for versatility in applications.
+  - Provides fast inference times, suitable for embedded systems and real-time detection.
+
+**Link to Notebook and Repo:**
+- [Object Detection Notebook](https://github.com/Nayan-Bebale/OpenCv-Course/blob/main/Object%20Detection/Object%20Detection.ipynb)
+- [OpenCV-Course Repo](https://github.com/Nayan-Bebale/OpenCv-Course/tree/main/Object%20Detection)
+
+
+---
 ## Model Comparison
 
 | Model                | Speed        | Accuracy    | Use Case                                    |
@@ -106,7 +125,7 @@ EfficientDet is a family of object detection models built on the **EfficientNet 
 | **RetinaNet**         | Medium       | High        | General purpose with focus on hard examples |
 | **SSDLite MobileNet V2** | Very Fast | Medium      | Mobile and embedded real-time detection     |
 | **YOLOv5**            | Very Fast    | High        | Real-time video and low-latency detection   |
-
+| **OpenCV Object Detection** | Very Fast | Medium  | Real-time object detection, embedded systems |  
 ---
 
 ## How to Use
